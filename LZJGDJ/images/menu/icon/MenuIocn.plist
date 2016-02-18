@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>Home50.png</string>
+	<key>2</key>
+	<string>AsssessmentP50.png</string>
+	<key>3</key>
+	<string>Document50.png</string>
+	<key>4</key>
+	<string>Online50.png</string>
+	<key>5</key>
+	<string>OnlineBook50.png</string>
+	<key>6</key>
+	<string>AskQ50.png</string>
+	<key>7</key>
+	<string>EditProperty50.png</string>
+	<key>8</key>
+	<string>ContractJob50.png</string>
+	<key>9</key>
+	<string>SignOnline50.png</string>
+	<key>10</key>
+	<string>WriteM50.png</string>
+</dict>
+</plist>
